@@ -39,6 +39,30 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Jack",
+      "restaurant": "sushi",
+      "image": "./assets/ramen/naruto.jpg",
+      "rating": "3",
+      "comment": "222ww",
+      "id": 6
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": "",
+      "id": 7
+    },
+    {
+      "name": "Jack",
+      "restaurant": "sushi",
+      "image": "./assets/ramen/naruto.jpg",
+      "rating": "333",
+      "comment": "2wwew",
+      "id": 8
     }
   ]
 }
